@@ -22,3 +22,13 @@ body {
     width: 3.125rem;
     height: 3.125rem;
 }
+
+.compraVenta {
+    background-image: url(../assets/img/fondocard1.jpg);
+    height: 500px;
+}
+
+.limpieza {
+    background-image: url(../assets/img/fondocard2.jpg);
+    height: 500px;
+}
