@@ -22,9 +22,3 @@ body {
     width: 3.125rem;
     height: 3.125rem;
 }
-
-.presentacion img {
-    width: 100% !important;
-    height: 600px !important;
-    object-fit: cover !important;
-}
